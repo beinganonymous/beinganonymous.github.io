@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Chetan Patil",
+    "label": "Student",
+    "picture": "https://beinganonymous.github.io/images/chetan.png",
+    "email": "chetanpatilonmail@gmail.com",
+    "phone": "+917720922270",
+    "website": "https://beinganonymous.github.io",
+    "summary": "I am an undergrad student at Vishwakarma Institute of Information Technology, Pune. I expect to graduate in Summer, 2021.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "beinganonymous",
+        "url": "http://github.com/beinganonymous"
+      },
+      {
+        "network": "linkedin",
+        "username": "Chetan Patil",
+        "url": "http://linkedin.com/in/chetan-patil-3a2a55147"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      
+    ]
+  },
+  "interests": [
+    {
+      "name": "Mobile Application Developement",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Web Developement",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Computer Vision",
+      "keywords": [
+      ]
+    }
+    {
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "Android",
+        "Python",
+        "Java",
+        "Javascript",
+        "PHP",
+        "C++",
+	"C",
+	"SQL",
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Google Colab",
+        "Ubuntu",
+        "Git/GitHub",
+        "Visual Studio",
+        "MySQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Vishwakarma Institute of Information Technology, Pune",
+      "area": "Information Technology (expected Summer, 2021)",
+      "studyType": "B.Tech.",
+      "startDate": "2018-08-18",
+      "endDate": "2021-06-15",
+      "SGPA": "8.5",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "Government Polytechnic Pune",
+      "area": "Computer Engineering",
+      "studyType": "Diploma",
+      "startDate": "2015-08-03",
+      "endDate": "2018-06-15",
+      "Percentage": "86.80",
+      "courses": [
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Gandharva VIIT",
+      "website": "https://www.viitgandharva.com",
+      "position": "Event Volunteer",
+      "startDate": "2019-03-15",
+      "endDate": "Present",
+      "summary": "Event Volunteer",
+      "Achievements/Tasks":[
+        "organised and undertaked publicity tasks.",
+        "helped with fundraising activities."
+      ]
+    },
+    {
+      "organization": "TechnoFest 2K18",
+      "website": "",
+      "position": "Event Head",
+      "startDate": "2018-01-17",
+      "endDate": "",
+      "summary": "Event head of Clash of Code",
+      "Achievements/Tasks": [
+        "Designed Clash of Code",
+        "Created application for event",
+        "Organised and Undertaked publicity tasks"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Winner Smart India Hackathon 2018",
+      "date": "2018-03-31",
+      "awarder": "All India Council for Technical Education",
+      "summary": "Smart India Hackathon is a nationwide initiative to provide students a platform to solve some of the pressing problems we face in our daily lives, and thus inculcate a culture of product innovation and a mindset of problem solving.The last edition of the hackathon saw over 5 million+ students from various colleges compete for the top prize at 65+ locations.In SIH, the students would have the opportunity to work on challenges faced within various Ministries, Departments, Industries, PSUs and NGOs to create world class solutions for some of the top organizations including industries in the world, thus helping the Private sector hire the best minds from across the nation"
+    },
+    {
+      "title": "Recipient of K.C.Mahindra Education Trust Scholarship, 2015.",
+      "date": "2015",
+      "awarder": "K.C.Mahindra Education Trust",
+      "summary": "The K. C. Mahindra Education Trust established the Mahindra All India Talent Scholarship in 1995. This scholarship is awarded to students belonging to economically disadvantaged families, who wish to pursue a job-oriented Diploma course at a recognised Government Polytechnic in India. This Scholarship was established to encourage and support young students from rural and urban areas to pursue job-oriented Diplomas."
+    }
+  ]
+  
+}
