@@ -24,13 +24,7 @@
         "network": "linkedin",
         "username": "Chetan Patil",
         "url": "http://linkedin.com/in/chetan-patil-3a2a55147"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      
+      }
     ]
   },
   "interests": [
@@ -48,7 +42,7 @@
       "name": "Computer Vision",
       "keywords": [
       ]
-    }
+    },
     {
       "name": "Machine Learning",
       "keywords": [
@@ -67,7 +61,7 @@
         "PHP",
         "C++",
 	"C",
-	"SQL",
+	"SQL"
       ]
     },
     {
@@ -92,7 +86,7 @@
       "SGPA": "8.5",
       "courses": [
       ]
-    }
+    },
     {
       "institution": "Government Polytechnic Pune",
       "area": "Computer Engineering",
